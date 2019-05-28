@@ -1974,7 +1974,7 @@ body {
 }
 .cid-romCunmleK {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-romCunmleK h2 {
@@ -2005,6 +2005,45 @@ body {
   overflow: hidden;
 }
 .cid-romCunmleK .card-img img {
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
+  width: auto;
+  max-width: 600px;
+}
+.cid-rrKI1HXkYW {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rrKI1HXkYW h2 {
+  text-align: center;
+}
+.cid-rrKI1HXkYW h4 {
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
+}
+.cid-rrKI1HXkYW p {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+.cid-rrKI1HXkYW .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rrKI1HXkYW .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-rrKI1HXkYW .card-img img {
   z-index: -1;
   min-height: 100%;
   min-width: 100%;
@@ -2576,7 +2615,7 @@ body {
   color: #a21853;
 }
 .cid-rpHkeqGUBV {
-  padding-top: 45px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
