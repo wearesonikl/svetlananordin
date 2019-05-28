@@ -2511,7 +2511,7 @@ body {
 }
 .cid-rosFBlDZtn {
   padding-top: 135px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rosFBlDZtn h2 {
@@ -2571,6 +2571,66 @@ body {
 }
 .cid-rosFBlDZtn H2 {
   color: #a21853;
+}
+.cid-rrLWgxFfrd {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rrLWgxFfrd h2 {
+  text-align: left;
+}
+.cid-rrLWgxFfrd h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rrLWgxFfrd p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rrLWgxFfrd .aside-content {
+  flex-basis: 100%;
+}
+.cid-rrLWgxFfrd .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rrLWgxFfrd .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-rrLWgxFfrd .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rrLWgxFfrd .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rrLWgxFfrd .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rrLWgxFfrd .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rrLWgxFfrd .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rrLWgxFfrd .card-img span {
+    font-size: 40px !important;
+  }
 }
 .cid-rosGTjsXwI {
   padding-top: 60px;
