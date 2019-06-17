@@ -3990,6 +3990,40 @@ body {
 .cid-rpRaxHGmjV .mbr-section-subtitle B {
   color: #000000;
 }
+.cid-rtr7iZtMF4 {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rtr7iZtMF4 .mbr-section-subtitle {
+  color: #a21853;
+}
+.cid-rtr7iZtMF4 H2 {
+  color: #a21853;
+}
+.cid-rtmWgETCn4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rtmWgETCn4 .line {
+  background-color: #a21853;
+  color: #a21853;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rtmWgETCn4 .section-text {
+  padding: 2rem 0;
+}
+.cid-rtmWgETCn4 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rtmWgETCn4 .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rpNozJ3ZV4 {
   padding-top: 120px;
   padding-bottom: 90px;
