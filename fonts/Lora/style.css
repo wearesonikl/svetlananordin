@@ -1,0 +1,28 @@
+@font-face {
+   font-family: 'Lora';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Lora/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lora';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Lora/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lora';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Lora/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Lora';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Lora/700italic.ttf') format('truetype');
+}

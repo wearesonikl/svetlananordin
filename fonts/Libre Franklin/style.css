@@ -1,0 +1,126 @@
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/100italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/200italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/300italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/500italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/600italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/700italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/800italic.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Libre Franklin';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///Users/shuzm/Library/Mobile%20Documents/com~apple~CloudDocs/web%20design/svetlananordin.com/mobirise/fonts/Libre Franklin/900italic.ttf') format('truetype');
+}
