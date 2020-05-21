@@ -1804,15 +1804,15 @@ section.lazy-placeholder:after {
 .cid-rosFBkPFBE .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rWX7SJlgLO {
+.cid-rZEatrzmUj {
   padding-top: 120px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rWX7SJlgLO .mbr-section-subtitle {
+.cid-rZEatrzmUj .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rWX7SJlgLO H2 {
+.cid-rZEatrzmUj H2 {
   color: #a21853;
 }
 .cid-rosFBlDZtn {
@@ -1958,73 +1958,70 @@ section.lazy-placeholder:after {
 .cid-rosGTjsXwI H2 {
   color: #a21853;
 }
-.cid-rZE4fB3lp7 {
-  padding-top: 30px;
-  padding-bottom: 0px;
+.cid-rZEaXm6igt {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rZE4fB3lp7 h2 {
+.cid-rZEaXm6igt h2 {
   text-align: left;
 }
-.cid-rZE4fB3lp7 h4 {
+.cid-rZEaXm6igt h4 {
   text-align: left;
   font-weight: 500;
 }
-.cid-rZE4fB3lp7 p {
+.cid-rZEaXm6igt p {
   color: #767676;
   text-align: justify;
 }
-.cid-rZE4fB3lp7 .aside-content {
+.cid-rZEaXm6igt .aside-content {
   flex-basis: 100%;
+  -webkit-flex-basis: 100%;
 }
-.cid-rZE4fB3lp7 .block-content {
+.cid-rZEaXm6igt .block-content {
   display: -webkit-flex;
   flex-direction: column;
   -webkit-flex-direction: column;
   word-break: break-word;
 }
-.cid-rZE4fB3lp7 .media {
+.cid-rZEaXm6igt .media {
   margin: initial;
-  align-items: center;
+  align-items: flex-start;
+  -webkit-align-items: flex-start;
 }
-.cid-rZE4fB3lp7 .mbr-figure {
+.cid-rZEaXm6igt .mbr-figure {
   align-self: flex-start;
   -webkit-align-self: flex-start;
   -webkit-flex-shrink: 0;
   flex-shrink: 0;
 }
-.cid-rZE4fB3lp7 .card-img {
+.cid-rZEaXm6igt .card-img {
   padding-right: 2rem;
   width: auto;
 }
-.cid-rZE4fB3lp7 .card-img span {
+.cid-rZEaXm6igt .card-img span {
   font-size: 72px;
   color: #707070;
 }
 @media (min-width: 992px) {
-  .cid-rZE4fB3lp7 .mbr-figure {
+  .cid-rZEaXm6igt .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rZE4fB3lp7 .mbr-figure {
+  .cid-rZEaXm6igt .mbr-figure {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 300px) {
-  .cid-rZE4fB3lp7 .card-img span {
+  .cid-rZEaXm6igt .card-img span {
     font-size: 40px !important;
   }
 }
-.cid-rZE4fB3lp7 H2 {
+.cid-rZEaXm6igt H2 {
   color: #a21853;
-  line-height: 1.6;
-  text-align: justify;
-}
-.cid-rZE4fB3lp7 .mbr-text {
-  color: #767676;
 }
 .cid-rpRyw6xNmx {
   padding-top: 60px;
